@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<team>
+    <id>3</id>
+    <name>Penguins</name>
+    <players>
+        <player>
+            <firstName>Wayne</firstName>
+            <id>4</id>
+            <lastName>Gretsky</lastName>
+            <positions>
+                <position>
+                    <id>4</id>
+                    <name>Center</name>
+                </position>
+                <position>
+                    <id>5</id>
+                    <name>Defense</name>
+                </position>
+            </positions>
+        </player>
+        <player>
+            <firstName>Mario</firstName>
+            <id>5</id>
+            <lastName>Lemieux</lastName>
+            <positions>
+                <position>
+                    <id>6</id>
+                    <name>Center</name>
+                </position>
+            </positions>
+        </player>
+    </players>
+    <slogan>Stop poluting, we'll die!</slogan>
+</team>
